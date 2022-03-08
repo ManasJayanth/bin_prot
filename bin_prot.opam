@@ -12,6 +12,7 @@ build: [
 depends: [
   "ocaml" {>= "4.08.0"}
   "base"
+  "bigarray-compat"
   "ppx_compare"
   "ppx_custom_printf"
   "ppx_fields_conv"
